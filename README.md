@@ -1,4 +1,3 @@
-# testConflitMerge
-Tests de conflit en pull-merge
+LOCAL # testConflitMerge 
 
-Une autre ligne dans le fichier README.mbp
+Tests de conflit en pull-merge
